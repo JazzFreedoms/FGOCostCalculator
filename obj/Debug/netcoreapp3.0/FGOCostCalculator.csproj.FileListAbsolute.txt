@@ -1,0 +1,11 @@
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.exe
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.deps.json
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.runtimeconfig.json
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.runtimeconfig.dev.json
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.dll
+C:\Projects\FGOCostCalculator\bin\Debug\netcoreapp3.0\FGOCostCalculator.pdb
+C:\Projects\FGOCostCalculator\obj\Debug\netcoreapp3.0\FGOCostCalculator.csprojAssemblyReference.cache
+C:\Projects\FGOCostCalculator\obj\Debug\netcoreapp3.0\FGOCostCalculator.AssemblyInfoInputs.cache
+C:\Projects\FGOCostCalculator\obj\Debug\netcoreapp3.0\FGOCostCalculator.AssemblyInfo.cs
+C:\Projects\FGOCostCalculator\obj\Debug\netcoreapp3.0\FGOCostCalculator.dll
+C:\Projects\FGOCostCalculator\obj\Debug\netcoreapp3.0\FGOCostCalculator.pdb
